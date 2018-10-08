@@ -18,8 +18,7 @@ function destructivelyRemoveFirstDriver(){
 }
 
 function appendDriver(name){
-  const drivers2 = [name, ...drivers]
-}
+  drivers.slice()
 
 function prependDriver(name){
   
