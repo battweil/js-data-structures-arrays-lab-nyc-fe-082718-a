@@ -1,14 +1,13 @@
 // Write your solution here!
 const drivers = ["Milo", "Otis", "Garfield"];
 
-drivers.push("Ralph")
+drivers.push("Ralph");
 
-drivers;
 
-// drivers.unshift("Bob");
+drivers.unshift("Bob");
 
-// drivers.pop();
+drivers.pop();
 
-// drivers.shift();
+drivers.shift();
 
 // drivers.slice(2,1,"Garfunkel");
