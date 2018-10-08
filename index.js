@@ -31,7 +31,7 @@ function prependDriver(name){
 
 function removeLastDriver(){
   const driver4 = [...drivers];
-  driver4.unshift(name)
+  driver4.pop()
   return driver4;
 }
 
