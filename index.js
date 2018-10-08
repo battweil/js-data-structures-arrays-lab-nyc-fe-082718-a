@@ -13,7 +13,10 @@ function destructivelyRemoveLastDriver(){
   drivers.pop();  
 }
 
+function destructivelyRemoveFirstDriver(){
+  drivers.shift();  
+}
 
-drivers.shift();
+
 
 // drivers.slice(2,1,"Garfunkel");
