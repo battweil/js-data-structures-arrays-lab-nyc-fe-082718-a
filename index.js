@@ -24,7 +24,9 @@ function appendDriver(name){
 }
 
 function prependDriver(name){
-  
+  const driver2 = [...drivers];
+  driver2.unshift(name)
+  return driver2;
 }
 
 function removeLastDriver(){
