@@ -19,7 +19,6 @@ function destructivelyRemoveFirstDriver(){
 
 function appendDriver(name){
   const = drivers2["name", ...drivers]
-  drivers2;
 }
 
 function prependDriver(name){
