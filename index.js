@@ -17,7 +17,6 @@ function destructivelyRemoveFirstDriver(){
   drivers.shift();  
 }
 
-const allCities = ['Los Angeles', ...coolCities];
 
 function appendDriver(name){
   const driver2 = [...drivers];
