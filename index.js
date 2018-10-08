@@ -29,4 +29,6 @@ function removeLastDriver(){
   
 }
 
-// drivers.slice(2,1,"Garfunkel");
+function removeFirstDriver(){
+  
+}
