@@ -21,7 +21,7 @@ const allCities = ['Los Angeles', ...coolCities];
 
 function appendDriver(name){
   const driver2 = [...drivers];
-  driver2
+  driver2.push(name)
 
 function prependDriver(name){
   
