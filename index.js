@@ -17,6 +17,8 @@ function destructivelyRemoveFirstDriver(){
   drivers.shift();  
 }
 
-
+function appendDriver(name){
+  
+}
 
 // drivers.slice(2,1,"Garfunkel");
